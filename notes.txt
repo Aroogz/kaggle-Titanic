@@ -1,0 +1,8 @@
+
+
+# skeptic
+	maybe remove the na fills for the cabin feat.
+
+# remove
+	remove the cabin column
+	
