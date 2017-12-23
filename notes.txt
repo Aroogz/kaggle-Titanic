@@ -2,6 +2,8 @@
 
 # skeptic
 	maybe remove the na fills for the cabin feat.
+	I need to check the right statistic
+	maybe there are too many survived in the training for instance
 
 # remove
 	remove the cabin column
